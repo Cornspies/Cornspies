@@ -11,7 +11,7 @@ My current skillset includes (ordered by proficiency):
 - Java
 - PHP
 
-Simply because I think that X programming language is the language that I am currenly most proficient at doesn't mean that I also write good code in X programming language. This ranking is solely based on my personal opinion!
+_Simply because I think that **X** programming language is the language that I am currenly most proficient at doesn't mean that I also write good code in **X** programming language. This ranking is solely based on my personal opinion!_
 
 What I plan to pick up in the near future:
 - Kotlin
@@ -20,3 +20,5 @@ What I plan to pick up in the near future:
 - Javascript -> Typescript
 - C#
 - Dart
+
+### Have a nice day!
