@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Cornspies/Cornspies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying for my computer science bachelor at the [Technische Universität Berlin](https://www.tu.berlin/en/).
 
-Here are some ideas to get you started:
+This repository is used as my personal collection of self written code examples, frequently used utility classes or projects. Feel free to use or improve anything I post on this repository.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My current skillset includes (ordered by proficiency):
+- C++
+- C
+- Python
+- Java
+- PHP
+
+Simply because I think that X programming language is the language that I am currenly most proficient at doesn't mean that I also write good code in X programming language. This ranking is solely based on my personal opinion!
+
+What I plan to pick up in the near future:
+- Kotlin
+- Go
+- Rust
+- Javascript -> Typescript
+- C#
+- Dart
