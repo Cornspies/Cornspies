@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently studying for my computer science bachelor (currently in transition to master's degree program) at the [Technische Universität Berlin](https://www.tu.berlin/en/).
+I'm studying for my computer science bachelor (currently in transition to master's degree program) at the [Technische Universität Berlin](https://www.tu.berlin/en/).
 
 This repository is used as my personal collection of self written code examples, frequently used utility classes or projects. Feel free to use or improve anything I post on this repository.
 
