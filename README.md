@@ -4,21 +4,22 @@ I'm currently studying for my computer science bachelor at the [Technische Unive
 
 This repository is used as my personal collection of self written code examples, frequently used utility classes or projects. Feel free to use or improve anything I post on this repository.
 
-My current skillset includes (ordered by proficiency):
+My current skillset includes (ordered by proficiency and recency of use):
 - C++
 - C
+- Javascript
+- Kotlin/Java/C#/Go
 - Python
-- Java
 - PHP
 
 _Simply because I think that **X** programming language is the language that I am currenly most proficient at doesn't mean that I also write good code in **X** programming language. This ranking is solely based on my personal opinion!_
 
-What I plan to pick up in the near future:
-- Kotlin
+Actively using and learning:
 - Go
-- Rust
-- Javascript -> Typescript
 - C#
-- Dart
+
+What I plan to pick up in the near future:
+- Rust
+- Dart (Flutter)
 
 ### Have a nice day!
